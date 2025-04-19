@@ -1,0 +1,1776 @@
+{
+    "id": "chatcmpl-BNsHuhboE4dnL86w0kgakfjQVXH2V",
+    "created": 1745029926,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.6478738188743591,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6478738188743591
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.147873878479004
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -2.897873878479004
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.052395377308130264,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.052395377308130264
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.5523953437805176
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.8023953437805176
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: rock, paper, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsHuE4M42ldHWL3ForJtB5ykoL7Y",
+    "created": 1745029926,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.43694573640823364,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.43694573640823364
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.9369456768035889
+                            },
+                            {
+                                "token": "sc",
+                                "bytes": [
+                                    115,
+                                    99
+                                ],
+                                "logprob": -2.186945676803589
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.0587131530046463,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.0587131530046463
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.55871319770813
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.55871319770813
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: rock, paper, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsHvF55pZW1lcTlZe2gfDBOvrhlj",
+    "created": 1745029927,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Scissors.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Sc",
+                        "bytes": [
+                            83,
+                            99
+                        ],
+                        "logprob": -2.897873878479004,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6478738188743591
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.147873878479004
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -2.897873878479004
+                            }
+                        ]
+                    },
+                    {
+                        "token": "issors",
+                        "bytes": [
+                            105,
+                            115,
+                            115,
+                            111,
+                            114,
+                            115
+                        ],
+                        "logprob": 0.0,
+                        "top_logprobs": [
+                            {
+                                "token": "issors",
+                                "bytes": [
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114,
+                                    115
+                                ],
+                                "logprob": 0.0
+                            },
+                            {
+                                "token": " scissors",
+                                "bytes": [
+                                    32,
+                                    115,
+                                    99,
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114,
+                                    115
+                                ],
+                                "logprob": -19.75
+                            },
+                            {
+                                "token": "issor",
+                                "bytes": [
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114
+                                ],
+                                "logprob": -20.875
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.027246540412306786,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.027246540412306786
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.7772464752197266
+                            },
+                            {
+                                "token": " \\xe2\\x9c",
+                                "bytes": [
+                                    32,
+                                    226,
+                                    156
+                                ],
+                                "logprob": -6.277246475219727
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 4,
+        "prompt_tokens": 25,
+        "total_tokens": 29,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: rock, paper, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsHvgUXgphQDD18kVaNtzS0bi2xI",
+    "created": 1745029927,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.43694573640823364,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.43694573640823364
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.9369456768035889
+                            },
+                            {
+                                "token": "sc",
+                                "bytes": [
+                                    115,
+                                    99
+                                ],
+                                "logprob": -2.186945676803589
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.0587131530046463,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.0587131530046463
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.55871319770813
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.55871319770813
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: rock, paper, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsHwHPKHgDOipG54PHP0vb8aq5ee",
+    "created": 1745029928,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Paper.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Paper",
+                        "bytes": [
+                            80,
+                            97,
+                            112,
+                            101,
+                            114
+                        ],
+                        "logprob": -2.222975492477417,
+                        "top_logprobs": [
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.972975492477417
+                            },
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.222975492477417
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -1.972975492477417
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.01771671138703823,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.01771671138703823
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -4.517716884613037
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -5.017716884613037
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: rock, paper, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsIO7NIVHOacPJsdTilm4NQeojp8",
+    "created": 1745029956,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Scissors.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Sc",
+                        "bytes": [
+                            83,
+                            99
+                        ],
+                        "logprob": -2.5162289142608643,
+                        "top_logprobs": [
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.26622894406318665
+                            },
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -2.0162289142608643
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -2.5162289142608643
+                            }
+                        ]
+                    },
+                    {
+                        "token": "issors",
+                        "bytes": [
+                            105,
+                            115,
+                            115,
+                            111,
+                            114,
+                            115
+                        ],
+                        "logprob": 0.0,
+                        "top_logprobs": [
+                            {
+                                "token": "issors",
+                                "bytes": [
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114,
+                                    115
+                                ],
+                                "logprob": 0.0
+                            },
+                            {
+                                "token": " scissors",
+                                "bytes": [
+                                    32,
+                                    115,
+                                    99,
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114,
+                                    115
+                                ],
+                                "logprob": -20.875
+                            },
+                            {
+                                "token": "issor",
+                                "bytes": [
+                                    105,
+                                    115,
+                                    115,
+                                    111,
+                                    114
+                                ],
+                                "logprob": -21.375
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.06593319028615952,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.06593319028615952
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -2.8159332275390625
+                            },
+                            {
+                                "token": " \\xe2\\x9c",
+                                "bytes": [
+                                    32,
+                                    226,
+                                    156
+                                ],
+                                "logprob": -6.0659332275390625
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 4,
+        "prompt_tokens": 25,
+        "total_tokens": 29,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: paper, rock, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsIR0hNxsngxKZq5ocA30D0DLUnG",
+    "created": 1745029959,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Rock",
+                        "bytes": [
+                            82,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.45345020294189453,
+                        "top_logprobs": [
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.45345020294189453
+                            },
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.2034502029418945
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -3.2034502029418945
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.038216594606637955,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.038216594606637955
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.5382165908813477
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -4.788216590881348
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: paper, rock, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsIRqaU9fLvxTpuxKFo1iFBMJF62",
+    "created": 1745029959,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Rock",
+                        "bytes": [
+                            82,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.26622894406318665,
+                        "top_logprobs": [
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.26622894406318665
+                            },
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -2.0162289142608643
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -2.5162289142608643
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.090216726064682,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.090216726064682
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -2.840216636657715
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.590216636657715
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: paper, rock, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsISfDMiTO7HTRyFVBwu2atAPolO",
+    "created": 1745029960,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Rock",
+                        "bytes": [
+                            82,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.26622894406318665,
+                        "top_logprobs": [
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.26622894406318665
+                            },
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -2.0162289142608643
+                            },
+                            {
+                                "token": "Sc",
+                                "bytes": [
+                                    83,
+                                    99
+                                ],
+                                "logprob": -2.5162289142608643
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.090216726064682,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.090216726064682
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -2.840216636657715
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.590216636657715
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: paper, rock, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsIT0SaRJ6BgNkwcm0acT4AuiI0h",
+    "created": 1745029961,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_f5bdcc3276",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Rock",
+                        "bytes": [
+                            82,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -1.416567325592041,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.41656729578971863
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -1.416567325592041
+                            },
+                            {
+                                "token": "sc",
+                                "bytes": [
+                                    115,
+                                    99
+                                ],
+                                "logprob": -3.166567325592041
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.05694473162293434,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.05694473162293434
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.0569448471069336
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -4.806944847106934
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: paper, rock, or scissors?"
+}
+{
+    "id": "chatcmpl-BNsIvqd5qcmtU9pz0x5CvTVTSP9cz",
+    "created": 1745029989,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_d8864f8b6b",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Paper.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Paper",
+                        "bytes": [
+                            80,
+                            97,
+                            112,
+                            101,
+                            114
+                        ],
+                        "logprob": -3.15974760055542,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6597476005554199
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.9097476005554199
+                            },
+                            {
+                                "token": "Paper",
+                                "bytes": [
+                                    80,
+                                    97,
+                                    112,
+                                    101,
+                                    114
+                                ],
+                                "logprob": -3.15974760055542
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.016620978713035583,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.016620978713035583
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -4.266621112823486
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -6.016621112823486
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: scissors, rock, or paper?"
+}
+{
+    "id": "chatcmpl-BNsIw0KIm7Am23NwJlCZFUhi5BBxY",
+    "created": 1745029990,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_d8864f8b6b",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "Paper.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "Paper",
+                        "bytes": [
+                            80,
+                            97,
+                            112,
+                            101,
+                            114
+                        ],
+                        "logprob": -2.9267418384552,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6767418384552002
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.9267418384552002
+                            },
+                            {
+                                "token": "Paper",
+                                "bytes": [
+                                    80,
+                                    97,
+                                    112,
+                                    101,
+                                    114
+                                ],
+                                "logprob": -2.9267418384552
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.02474103309214115,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.02474103309214115
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.7747409343719482
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -6.524741172790527
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: scissors, rock, or paper?"
+}
+{
+    "id": "chatcmpl-BNsIx5rGicJhfFlMDOuOnlF1pelkx",
+    "created": 1745029991,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_d8864f8b6b",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.6733407378196716,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6733407378196716
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.9233407378196716
+                            },
+                            {
+                                "token": "Paper",
+                                "bytes": [
+                                    80,
+                                    97,
+                                    112,
+                                    101,
+                                    114
+                                ],
+                                "logprob": -2.9233407974243164
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.07700120657682419,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.07700120657682419
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.0770010948181152
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.5770010948181152
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: scissors, rock, or paper?"
+}
+{
+    "id": "chatcmpl-BNsIxvs9dY3V4vGfHeCvxVR00Vhm3",
+    "created": 1745029991,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_d8864f8b6b",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.6733407378196716,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6733407378196716
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.9233407378196716
+                            },
+                            {
+                                "token": "Paper",
+                                "bytes": [
+                                    80,
+                                    97,
+                                    112,
+                                    101,
+                                    114
+                                ],
+                                "logprob": -2.9233407974243164
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.07700120657682419,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.07700120657682419
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.0770010948181152
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.5770010948181152
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: scissors, rock, or paper?"
+}
+{
+    "id": "chatcmpl-BNsIyVc44f5YY60acpZJwIRPsmQ8w",
+    "created": 1745029992,
+    "model": "gpt-4o-2024-08-06",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_d8864f8b6b",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "message": {
+                "content": "rock.",
+                "role": "assistant",
+                "tool_calls": null,
+                "function_call": null,
+                "annotations": []
+            },
+            "logprobs": {
+                "content": [
+                    {
+                        "token": "rock",
+                        "bytes": [
+                            114,
+                            111,
+                            99,
+                            107
+                        ],
+                        "logprob": -0.6767418384552002,
+                        "top_logprobs": [
+                            {
+                                "token": "rock",
+                                "bytes": [
+                                    114,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.6767418384552002
+                            },
+                            {
+                                "token": "Rock",
+                                "bytes": [
+                                    82,
+                                    111,
+                                    99,
+                                    107
+                                ],
+                                "logprob": -0.9267418384552002
+                            },
+                            {
+                                "token": "Paper",
+                                "bytes": [
+                                    80,
+                                    97,
+                                    112,
+                                    101,
+                                    114
+                                ],
+                                "logprob": -2.9267418384552
+                            }
+                        ]
+                    },
+                    {
+                        "token": ".",
+                        "bytes": [
+                            46
+                        ],
+                        "logprob": -0.07700186967849731,
+                        "top_logprobs": [
+                            {
+                                "token": ".",
+                                "bytes": [
+                                    46
+                                ],
+                                "logprob": -0.07700186967849731
+                            },
+                            {
+                                "token": "!",
+                                "bytes": [
+                                    33
+                                ],
+                                "logprob": -3.0770018100738525
+                            },
+                            {
+                                "token": "<|end|>",
+                                "bytes": null,
+                                "logprob": -3.5770018100738525
+                            }
+                        ]
+                    }
+                ],
+                "refusal": null
+            }
+        }
+    ],
+    "usage": {
+        "completion_tokens": 3,
+        "prompt_tokens": 25,
+        "total_tokens": 28,
+        "completion_tokens_details": {
+            "accepted_prediction_tokens": 0,
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "rejected_prediction_tokens": 0
+        },
+        "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "prompt_variant": "Choose one: scissors, rock, or paper?"
+}
